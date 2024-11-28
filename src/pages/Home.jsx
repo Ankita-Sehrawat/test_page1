@@ -258,7 +258,7 @@ const Home = () => {
           <Col lg={12} xl={10}>
             <img className='w-100' src={group_pic} alt="img" />
 
-            <div className='w_60 p-xl-4 bg-white positio n-absolute group_cont_pos mt-4 mt-lg-0' >
+            <div className='w_60 p-xl- 4 bg-white  group_cont_pos mt-4 mt-lg-0' >
               <div className='text-center text-lg-start p-lg-5'>
                 <p className='text-uppercase fs_sm fw-medium clr_dark'>Why we started </p>
                 <p className='ff_sen fs_xl fw-bold clr_dark mt-lg-4 mt-3'>It started out as a simple idea and evolved into our passion</p>
