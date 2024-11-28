@@ -148,7 +148,7 @@ const Home = () => {
             <h1 className='ff_sen fw-bold fs_lxl text-white my-3'>Step-by-step guide to choosing great font pairs</h1>
             <p className='fw-normal fs_sm text-white'>By <span className='clr_sun'>James West</span>  |  May 23, 2022 </p>
             <p className='fw-normal fs_sn text-white mt-3'>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>
-            <div><button className='ms-2 fs_md fw-bold ff_sen sub_btn bg_sun mt-lg-5 mt-4'>Read More <span>></span> </button></div>
+            <div><button className='ms-2 fs_md fw-bold ff_sen sub_btn bg_sun mt-lg-5 mt-4'>Read More <span>&gt;</span> </button></div>
           </div>
         </Container>
       </div>
@@ -167,7 +167,7 @@ const Home = () => {
                     <p className='fs_xsm fw-medium clr_dark'>By <span className='clr_purp'>John Doe</span>  l May 23, 2022</p>
                     <p className='ff_sen fw-bold fs_lg clr_dark mt-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
                     <p className='fs_sm fw-normal clr_ash mt-3'>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.</p>
-                    <button className='ms-2 fs_md fw-bold ff_sen sub_btn bg_sun mt-lg-5 mt-4'>Read More <span>></span> </button>
+                    <button className='ms-2 fs_md fw-bold ff_sen sub_btn bg_sun mt-lg-5 mt-4'>Read More <span>&gt;</span> </button>
                   </div>
                 </div>
               </div>
@@ -210,7 +210,7 @@ const Home = () => {
                 <p className='text-uppercase fs_sm fw-medium clr_dark'>About us</p>
                 <p className='ff_sen fs_llg fw-bold clr_dark mt-lg-4 mt-3'>We are a community of content writers who share their learnings</p>
                 <p className='fw-normal fs_sm clr_ash mt-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                <button className='ff_sen fw-bold fs_md clr_purp border-0 bg-transparent mt-3'>Read More > </button>
+                <button className='ff_sen fw-bold fs_md clr_purp border-0 bg-transparent mt-3'>Read More &gt; </button>
               </Col>
 
               <Col lg={5} xxl={6} className='text-center text-lg-start mt-4 mt-lg-0'>
@@ -263,7 +263,7 @@ const Home = () => {
                 <p className='text-uppercase fs_sm fw-medium clr_dark'>Why we started </p>
                 <p className='ff_sen fs_xl fw-bold clr_dark mt-lg-4 mt-3'>It started out as a simple idea and evolved into our passion</p>
                 <p className='fw-normal fs_sm clr_ash mt-3'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip.</p>
-                <button className='ms-2 fs_md fw-bold ff_sen sub_btn bg_sun mt-lg-5 mt-4'>Discover our story > </button>
+                <button className='ms-2 fs_md fw-bold ff_sen sub_btn bg_sun mt-lg-5 mt-4'>Discover our story &gt; </button>
 
               </div>
             </div>
